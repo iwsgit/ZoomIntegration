@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zm_settings_center_divider.9.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable-nodpi\\zm_settings_center_divider.9.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zm_list_divider.9.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable-nodpi\\zm_list_divider.9.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zm_settings_bottom_divider.9.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable-nodpi\\zm_settings_bottom_divider.9.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi-v4\\zm_settings_top_divider.9.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable-nodpi\\zm_settings_top_divider.9.png"
+    }
+]

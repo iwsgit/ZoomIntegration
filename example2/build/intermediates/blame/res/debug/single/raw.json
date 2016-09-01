@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_zcacert.pem",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_zcacert.pem"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\ios_emoji.conf",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\ios_emoji.conf"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_dudu.pcm",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_dudu.pcm"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_invitation_email_template.txt",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_invitation_email_template.txt"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_modules_video_neon.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_modules_video_neon.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_modules_video.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_modules_video.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_leave.pcm",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_leave.pcm"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_dingdong.pcm",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_dingdong.pcm"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_emoji_config.conf",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_emoji_config.conf"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_modules_chat.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_modules_chat.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_ring.pcm",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_ring.pcm"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_zxmpproot.cer",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_zxmpproot.cer"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\raw\\zm_dingdong1.pcm",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\raw\\zm_dingdong1.pcm"
+    }
+]

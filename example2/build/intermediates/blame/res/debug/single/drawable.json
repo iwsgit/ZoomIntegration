@@ -1,0 +1,766 @@
+[
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_record_pause.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_record_pause.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_round_dark_pressed.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_round_dark_pressed.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_icon_fb.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_icon_fb.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_settings.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_settings.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_anno_pen.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_anno_pen.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_webinar_message_in.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_webinar_message_in.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_poll_prev.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_poll_prev.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_popitem_text_highlight_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_popitem_text_highlight_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_clear_search_view.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_clear_search_view.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_plist.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_plist.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_audio_source_speaker_phone.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_audio_source_speaker_phone.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_default.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_default.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_browser_forward.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_browser_forward.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_login_bg_light_layer.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_login_bg_light_layer.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_quick_search_char_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_quick_search_char_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_screenshare_toolbar_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_screenshare_toolbar_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_mute_audio.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_mute_audio.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_chatfrom_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_chatfrom_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_top_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_top_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_record_control_txt_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_record_control_txt_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_bo_join_leave_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_bo_join_leave_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_anno_erase.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_anno_erase.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_indicator_top_first.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_indicator_top_first.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_kubi_disconnected.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_kubi_disconnected.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_decline.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_decline.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_alert.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_alert.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_webinar_message_out_notitle.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_webinar_message_out_notitle.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_unmute_video.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_unmute_video.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_cam_zoomout.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_cam_zoomout.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_record_control_bg_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_record_control_bg_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_opt_btn_overlay.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_opt_btn_overlay.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_expand_video.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_expand_video.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_round_dark.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_round_dark.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item_no_top_line.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item_no_top_line.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_meeting_settings.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_meeting_settings.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_toggle_default.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_toggle_default.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_title_btn_new_chat.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_title_btn_new_chat.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_polling_percent.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_polling_percent.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_audio_source_ear_phone.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_audio_source_ear_phone.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_accept.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_accept.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_mymeetings.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_mymeetings.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_indicator.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_indicator.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_settings_item_selector.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_settings_item_selector.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_lowerhand.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_lowerhand.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_join.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_join.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_meet_now.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_meet_now.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_edit_center.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_edit_center.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_check_highlight_selection_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_check_highlight_selection_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_happypath2.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_happypath2.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_chatto_bg_voice.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_chatto_bg_voice.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_check_default.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_check_default.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_control.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_control.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_chats.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_chats.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_quick_search_sidebar.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_quick_search_sidebar.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item_no_line.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item_no_line.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_dropdown.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_dropdown.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_qa.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_qa.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_next_arrow.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_next_arrow.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_back_white.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_back_white.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_backtomeeting.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_backtomeeting.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_toolbar_btn_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_toolbar_btn_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_dialog_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_dialog_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_toolbar_stopannotation_bgcolor.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_toolbar_stopannotation_bgcolor.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_check_highlight_selection.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_check_highlight_selection.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_title_btn_contact.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_title_btn_contact.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_login_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_login_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_bo_icon.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_bo_icon.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_edit_last.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_edit_last.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_popitem_btn_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_popitem_btn_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_kubi_connected.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_kubi_connected.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_remove_contact_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_remove_contact_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_voice_rcd_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_voice_rcd_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_transparent.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_transparent.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_plist_list_selector_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_plist_list_selector_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_edit_first.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_edit_first.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_material_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_material_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_window_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_window_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_dialog_item_text_highlight_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_dialog_item_text_highlight_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_meet_upcoming.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_meet_upcoming.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_tap_speak_normal.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_tap_speak_normal.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_broadcast_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_broadcast_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_downloading_percent.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_downloading_percent.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_add_contact_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_add_contact_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_round_dark_normal.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_round_dark_normal.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_mute_video.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_mute_video.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_audio_source_bluetooth.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_audio_source_bluetooth.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_setmode_keyboard_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_setmode_keyboard_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_index_bottom.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_index_bottom.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_cam_zoomin.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_cam_zoomin.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_progress_horizontal.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_progress_horizontal.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_notification_background.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_notification_background.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_schedule.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_schedule.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_4pies_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_4pies_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_audio_none.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_audio_none.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_small_on_dark.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_small_on_dark.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_select_default.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_select_default.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_decline.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_decline.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_gallery_collapse.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_gallery_collapse.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_bookmark_remove_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_bookmark_remove_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_refresh.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_refresh.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_webinar_message_out.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_webinar_message_out.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_camera.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_camera.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_accept.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_accept.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_next_arrow_on_notification.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_next_arrow_on_notification.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_edit_text.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_edit_text.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_webinar_message_in_notitle.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_webinar_message_in_notitle.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_search_corner_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_search_corner_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tip_dark.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tip_dark.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_downloading_percent_indeterminate.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_downloading_percent_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_cam_release.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_cam_release.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_speaker.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_speaker.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_gallery_close.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_gallery_close.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_add.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_add.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_chatfrom_bg_voice.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_chatfrom_bg_voice.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_title_btn_groupcontact.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_title_btn_groupcontact.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_camera_on_toolbar.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_camera_on_toolbar.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_toolbar_stopshare_bgcolor.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_toolbar_stopshare_bgcolor.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_anno_circle.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_anno_circle.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_msg_state_fail.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_msg_state_fail.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_round_dark_selected.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_round_dark_selected.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_welcome_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_welcome_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_mute_phone.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_mute_phone.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_popitem_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_popitem_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_icon_google.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_icon_google.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_unmute_phone.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_unmute_phone.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_audio_source_wired.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_audio_source_wired.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_red.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_red.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_more.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_more.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_gallery_expand.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_gallery_expand.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_dialog_highlight_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_dialog_highlight_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_setmode_voice_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_setmode_voice_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_favorite.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_favorite.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_invite.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_invite.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_poll_next.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_poll_next.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_quick_search_list_group_header_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_quick_search_list_group_header_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_green.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_green.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_meeting_audiosource.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_meeting_audiosource.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_text_color_no_high_light.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_text_color_no_high_light.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_less_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_less_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_scene_selected.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_scene_selected.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_poll_center.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_poll_center.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_meeting.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_meeting.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_edit.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_edit.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item_last.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item_last.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_more_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_more_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_anno_highlight.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_anno_highlight.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_im.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_im.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_stopshare.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_stopshare.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_switch_scene_unselected.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_switch_scene_unselected.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_anno_spotlight.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_anno_spotlight.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_record_resume.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_record_resume.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_setting_item_text_color_highlight.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_setting_item_text_color_highlight.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_tab_indicator_top_last.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_tab_indicator_top_last.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_polling_percent_indeterminate.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_polling_percent_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_listview_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_listview_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_loading_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_loading_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item_first.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item_first.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_raisehand.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_raisehand.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_back.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_back.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_more.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_more.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_text_color_warn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_text_color_warn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_mm_buddy_remove_btn.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_mm_buddy_remove_btn.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_bo_help.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_bo_help.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_unmute_audio.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_unmute_audio.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_happypath.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_happypath.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_button_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_button_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_default_small.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_default_small.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_browser_back.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_browser_back.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_list_selector_background.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_list_selector_background.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_toolbar_annotation_bgcolor.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_toolbar_annotation_bgcolor.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_leave.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_leave.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_highlight_selection_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_highlight_selection_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_record_stop.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_record_stop.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_chatto_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_chatto_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ab_switch.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ab_switch.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_dialog_item_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_dialog_item_text_color.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_dialog_btn_bg.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_dialog_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_meeting_running_info.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_meeting_running_info.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_index.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_index.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_text_color_on_light.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_text_color_on_light.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_button_text_color_on_dark.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_button_text_color_on_dark.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_setting_option_item_center.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_setting_option_item_center.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_ic_cam_switch.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_ic_cam_switch.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_icon_contacts.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_icon_contacts.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_back_on_dark.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\drawable\\zm_btn_back_on_dark.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_share.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_share.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_done_speak_normal.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_done_speak_normal.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\drawable\\zm_btn_green_text_color.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable\\zm_btn_green_text_color.xml"
+    }
+]

@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="zoomsdk-unspecified">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-api-services-drive-v2-rev168-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-http-client-gson-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-http-client-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-oauth-client-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/protobuf-java-2.4.1-lite.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-api-client-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/gson-2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/livesdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-http-client-android-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/google-api-client-android-1.20.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/dropbox-android-sdk-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomsdk/unspecified/jars/libs/zoom-sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

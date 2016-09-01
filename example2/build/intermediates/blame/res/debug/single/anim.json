@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_in_bottom.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_bottom.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_chatfrom_voice_playing.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_chatfrom_voice_playing.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_chatto_voice_playing.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_chatto_voice_playing.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_bo_connecting.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_bo_connecting.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_shrink_fade_in_from_top.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_shrink_fade_in_from_top.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_left.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_tip_fadein.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_tip_fadein.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_shrink_fade_out_from_top.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_shrink_fade_out_from_top.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_fade_out.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_fade_out.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_in_right.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_in_left.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_in_left.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_fade_in.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_fade_in.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_in_dialog.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_in_dialog.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_talking.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_talking.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_dialog.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_dialog.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_right.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_right.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_pull_down_refresh_rotate_to_up.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_pull_down_refresh_rotate_to_up.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_pull_down_refresh_rotate_to_down.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_pull_down_refresh_rotate_to_down.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\res\\merged\\debug\\anim\\zm_talking_phone.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example2\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_talking_phone.xml"
+    }
+]

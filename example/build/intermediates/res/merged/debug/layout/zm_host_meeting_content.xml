@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zipow.videobox.view.HostMeetingListView  xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/hostMeetingListView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+<!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomsdk/src/main/res/layout/zm_host_meeting_content.xml -->

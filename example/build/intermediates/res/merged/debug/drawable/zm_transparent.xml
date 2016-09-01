@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+    <solid android:color="#00000000"/>
+</shape>
+<!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomsdk/src/main/res/drawable/zm_transparent.xml -->

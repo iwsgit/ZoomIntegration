@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="zoomcommonlib-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomcommonlib/unspecified/jars/libs/zoom-common-lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomcommonlib/unspecified/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/example2/build/intermediates/exploded-aar/zoom-sdk-android-studio/zoomcommonlib/unspecified/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

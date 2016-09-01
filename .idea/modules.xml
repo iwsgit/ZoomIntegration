@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/example/example.iml" filepath="$PROJECT_DIR$/example/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example2/example2.iml" filepath="$PROJECT_DIR$/example2/example2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoom-sdk-android-studio.iml" filepath="$PROJECT_DIR$/zoom-sdk-android-studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomcommonlib/zoomcommonlib.iml" filepath="$PROJECT_DIR$/zoomcommonlib/zoomcommonlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zoomsdk/zoomsdk.iml" filepath="$PROJECT_DIR$/zoomsdk/zoomsdk.iml" />
+    </modules>
+  </component>
+</project>

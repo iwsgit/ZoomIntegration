@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:state_enabled="true" android:color="#333333"/>
+    <item android:state_enabled="false" android:color="#b3333333" />
+</selector><!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomcommonlib/src/main/res/drawable/zm_button_text_color_no_high_light.xml -->

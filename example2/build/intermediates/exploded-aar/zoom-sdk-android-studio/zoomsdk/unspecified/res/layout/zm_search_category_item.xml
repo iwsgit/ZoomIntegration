@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/zm_white"
+    android:orientation="vertical" >
+    
+	<View android:layout_width="match_parent"
+	    android:layout_height="30dp"
+	    android:id="@+id/viewPaddingTop"/>
+	
+    <TextView
+        android:id="@+id/txtCategoryItem"
+        style="@style/ZMTextView.SettingsItemDesc"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical|left"/>
+
+</LinearLayout><!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomsdk/src/main/res/layout/zm_search_category_item.xml -->
