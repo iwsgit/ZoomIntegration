@@ -2,55 +2,66 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:padding="10dp"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:padding="10dp">
 
     <EditText
         android:id="@+id/edtMeetingNo"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:focusable="true"
         android:hint="@string/zm_hint_meeting_number"
         android:imeOptions="actionNext|flagNoExtractUi"
-        android:focusable="true"
         android:maxLength="13">
+
         <requestFocus />
     </EditText>
-    
+
     <EditText
         android:id="@+id/edtMeetingPassword"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="10dp"
+        android:focusable="true"
         android:hint="Meeting Password(For join meeting only)"
-        android:imeOptions="actionNext|flagNoExtractUi"
-        android:focusable="true">
-        
+        android:imeOptions="actionNext|flagNoExtractUi">
+
     </EditText>
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
         android:gravity="center"
-        android:orientation="horizontal"
-        android:layout_marginTop="10dp" >
+        android:orientation="horizontal">
 
         <Button
             android:id="@+id/btnStartMeeting"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_marginRight="2dp"
-            android:text="Start this Meeting"
-            android:onClick="onClickBtnStartMeeting" />
-        
+            android:layout_weight="1"
+            android:onClick="onClickBtnStartMeeting"
+            android:text="Start Meeting" />
+
         <Button
             android:id="@+id/btnJoinMeeting"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="onClickBtnJoinMeeting"
             android:text="Join this Meeting"
-            android:onClick="onClickBtnJoinMeeting" />
-        
+            android:visibility="gone" />
+
     </LinearLayout>
+
+    <TextView
+        android:id="@+id/meeting_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="50dp"
+        android:text="Total Meeting Time :"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
 
 </LinearLayout>
