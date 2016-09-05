@@ -4,39 +4,29 @@
     api-level="22"
     density="hdpi"
     format="7"
-    timestamp="9077854582566" >
+    timestamp="24154629156635" >
 
     <task
         name="javac"
-        duration="411" />
+        duration="2611" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="11" />
+        duration="685" />
     <task
         name="verifier"
-        duration="3" />
+        duration="332" />
 
     <artifact
-        location="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="D:\TDATC\zoom-sdk-android-studio\example\build\outputs\apk\example-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="7267197972800" >
+    <build timestamp="24154629156635" >
         <artifact
             location="D:\TDATC\zoom-sdk-android-studio\example\build\outputs\apk\example-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="7900821278788" >
-        <artifact
-            location="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="9077854582566" >
-        <artifact
-            location="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

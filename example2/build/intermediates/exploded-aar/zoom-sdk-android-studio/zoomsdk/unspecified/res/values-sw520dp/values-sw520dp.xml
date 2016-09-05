@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomsdk/src/main/res/values-sw520dp/dimens.xml -->
-    <eat-comment/>
-    <dimen name="zm_mm_bubble_width">415dp</dimen>
-</resources>

@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android" >
-    <item android:state_enabled="true" android:color="#ffffff"/>
-    <item android:state_enabled="false" android:color="#c3c3c3" />
-</selector><!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomsdk/src/main/res/drawable/zm_btn_green_text_color.xml -->

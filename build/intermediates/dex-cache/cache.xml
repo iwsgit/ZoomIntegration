@@ -1,3 +1,208 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomcommonlib\unspecified\jars\libs\zoom-common-lib.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ce86558400c45a5f0dd88b1c83ca154cd0ade2fd">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\zoom-common-lib_77ed301cc3b8e62d76d4e8591b832fe01aefd4c7\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f62e763609f65e47dc6c498760a4accf02776788">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_09220fcf630e31a687444c8812781c9699beb819\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\dropbox-android-sdk-1.6.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4811e0fdb7909dc3c386acbb4594a53a26e84956">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\dropbox-android-sdk-1.6.1_5381d99fdae818e3efb98db5aa37ff04fd191e3a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\iwsuser6\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_7c8de339d63f970d935ce91b6f05447f1e9f586e\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-http-client-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="365f575d25fd6e000a36597ea787b2528af696f8">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-http-client-1.20.0_65163e9130cb740a03eaa26ae2f5ce2b29c7b390\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\livesdk.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0c997fee0edac0092eff38c7ef19536d592f509a">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\livesdk_e3f327ab960ddb8685eac302175f9579bec72341\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-api-client-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b26f611c5c1fbf5bcfe7fcdaff4926fcdfd1f304">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-api-client-1.20.0_158f94830eb761cf63daea2ba27aa317af36267b\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\gson-2.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\gson-2.1_462ad9b7820a35f0ae30fd05a296a791faab9d37\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\iwsuser6\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.8.0\5ea7af56cc7c567ed9856d99efb30740e9b17ff\okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.8.0_6b3a8f4d28c952a68f4cf20f005b1330d4aa4c46\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-http-client-gson-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="41e585826a0f32487717803ed686e5207007a24f">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-http-client-gson-1.20.0_7bb43f62f0efc9f1f1431498dafc9d5d3ae1bd8e\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\zoom-sdk.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b0ed53fc0ecaa4eb1a7daa0bfc390dafcb92a1e">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\zoom-sdk_51b43a700cf48759ca39f3045a75441e98e35cfc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\iwsuser6\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-5.1.1_234cb60af1747799d0baafbe46e5bc6c78067e68\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_8875de6eef01da512b3e1705b07c99ed0d01d450\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_bbdf50502c6b6708cb2e7c46bdb43ec7753822d4\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-api-client-android-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="06ecb6683e5cfac56a5fa62541bfe40f4428c5ea">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-api-client-android-1.20.0_c14c6190d79d59427fa43e0393ab9cf99ea51cdb\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_252a1d0ffb558b4e177a80fd66d1b89261d8f5a8\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_d270b8afb56e1728b7b53033a56da1c45fd97105\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-api-services-drive-v2-rev168-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e576ea5009b4020162ae2a2407f45d9a78f2f08d">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-api-services-drive-v2-rev168-1.20.0_b7be006279c04c738da97bded0375b39fd4a719b\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-http-client-android-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d9781cdc1ab5e0e0631ff0adbd549f98fe5ebdfd">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-http-client-android-1.20.0_985aac01b17ce50bf2a2777694db20b4bc3e2ccd\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.paypal.sdk\paypal-android-sdk\2.14.4\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="2a88476d8b90274328f3bf94775a479cc6fdd4fd">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.paypal.sdk-paypal-android-sdk-2.14.4_65d54705a2968a56c2f3bcaab82b8de5ee4ad719\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="62c0984e88f4dcc93d7a4c2f1734c8706467314d">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8d60fccaa6334f989ebb610ce31952ba222f5930\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1256c10604bb098490eab070d76754ac5ceab35c">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_9c01d29e54903bab9e23912b70170de078d161b0\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\io.card\android-sdk\5.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f19e5ca63dd8a93c701b5586ffd1295d7e6e54f5">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\io.card-android-sdk-5.4.0_9f03fc7bd58d9d367740b05883c69c999a198efe\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="efd0e8bad1067434cf2ce149ab4f818b8ca9d9af">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4be7e518a6b6a63c77e25aeb30ad3a1483ca5850\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\protobuf-java-2.4.1-lite.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1319559598ee21b2cdba47f209bfd752d89fcb5a">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\protobuf-java-2.4.1-lite_7af888939b34a50afd0f65ae795e94f456604296\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_0e6956d9e909ae8774f1a0c7ccc6e4c641f59014\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\json_simple-1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5e303a03d04e6788dddfa3655272580ae0fc13bb">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\json_simple-1.1_2dbbc24c1138e115a8f29116a8d4dc6d15a61b18\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\iwsuser6\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.3.1\19047bdb6a4fc00a44124f64ca98e88fc204e7e3\okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.3.1_b784f06bd492b68561f972d6f280e1bd3707c803\classes.dex" />
+    </item>
+    <item
+        jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\exploded-aar\zoom-sdk-android-studio\zoomsdk\unspecified\jars\libs\google-oauth-client-1.20.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="022c751f736f9e3af13168bcc2ec76863fc90839">
+        <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\8\google-oauth-client-1.20.0_d19f89ea30d169201d8076a3c65080034fd4789d\classes.dex" />
+    </item>
+
+</items>

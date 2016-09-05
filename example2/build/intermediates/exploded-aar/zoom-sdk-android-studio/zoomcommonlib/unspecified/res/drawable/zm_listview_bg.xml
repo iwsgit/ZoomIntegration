@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<shape xmlns:android="http://schemas.android.com/apk/res/android" 
-       android:shape="rectangle"> 
-
-    <solid android:color="#ffffff"/>
-    
-</shape><!-- From: file:/E:/B_35_7196/Client/src/application/Android/rich-sdk/target-android-studio/lib-projects/zoomcommonlib/src/main/res/drawable/zm_listview_bg.xml -->

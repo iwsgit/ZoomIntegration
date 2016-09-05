@@ -1,5 +1,7 @@
 package us.zoom.sdkexample;
 
+import com.paypal.android.sdk.payments.PayPalConfiguration;
+
 public interface Constants {
 
 	// TODO Change it to your web domain
@@ -28,5 +30,11 @@ public interface Constants {
 	
 	// TODO Change it to your GoogleDrive client ID to enable "Share Google Drive"
 	public final static String GOOGLE_DRIVE_CLIENT_ID = null;
+
+
+	//Todo Change it to your Paypal Client_ID
+	public final static String CONFIG_CLIENT_ID = "AXpMJZichIppZM4ezOfk7cIiPFKVAwM_FOl3ZN4kHWX_rA-3O0dagfKH3xv2zybraDEC8RfSWtn39Hxv";
+
+	public static final String CONFIG_ENVIRONMENT = PayPalConfiguration.ENVIRONMENT_SANDBOX;
 
 }

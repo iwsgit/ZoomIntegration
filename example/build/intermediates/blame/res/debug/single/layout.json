@@ -1,31 +1,31 @@
 [
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_my_meetings.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_my_meetings.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_meeting_running_info.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_meeting_running_info.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_my_meetings.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_my_meetings.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\home_fragment.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\src\\main\\res\\layout\\home_fragment.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_sharinglayout.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_sharinglayout.xml"
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_webinar_chat_to.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_webinar_chat_to.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_webinar_chat.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_webinar_chat.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_webinar_chat_to.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_webinar_chat_to.xml"
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_sharinglayout.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_sharinglayout.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_qa_question_detail_action_new_answer.xml",
@@ -52,12 +52,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_mm_message_audio_to.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_onhold_view.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_onhold_view.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_polling_result_view.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_polling_result_view.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_onhold_view.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_onhold_view.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_webinar_raisehand_tip.xml",
@@ -108,12 +108,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_new_version.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_call_connecting_titlebar.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_call_connecting_titlebar.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_kubi_empty_list_item.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_kubi_empty_list_item.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_call_connecting_titlebar.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_call_connecting_titlebar.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_pull_down_refresh_message.xml",
@@ -140,36 +140,36 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_signup.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_signup.xml"
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_system_notification.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_system_notification.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_search_view.xml"
-    },
-    {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_time_zone_picker_layout.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_time_zone_picker_layout.xml"
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_signup.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_signup.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\src\\main\\res\\layout\\main.xml"
     },
     {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_time_zone_picker_layout.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_time_zone_picker_layout.xml"
+    },
+    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_mm_chats_list.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_mm_chats_list.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_schedule.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_schedule.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_invite_by_phone.xml",
@@ -220,12 +220,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_callin_info.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_calling_titlebar.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_calling_titlebar.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_buddy_invite_send.xml",
@@ -828,12 +828,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_image_no_buddy.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_qa_ask.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_qa_ask.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_im_message_to.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_im_message_to.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_qa_ask.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_qa_ask.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",

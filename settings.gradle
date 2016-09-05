@@ -1,4 +1,4 @@
-include ':zoomcommonlib'
+include ':zoomcommonlib', ':PayPalAndroidSDK-2.14.4'
 include ':zoomsdk'
 include ':example'
 include ':example2'

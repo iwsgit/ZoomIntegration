@@ -1,5 +1,6 @@
 package us.zoom.sdkexample;
 
+import us.zoom.androidlib.util.PhoneNumberUtil;
 import us.zoom.sdk.MeetingViewsOptions;
 import us.zoom.sdk.JoinMeetingOptions;
 import us.zoom.sdk.InviteOptions;
@@ -13,13 +14,27 @@ import us.zoom.sdk.ZoomSDK;
 import us.zoom.sdk.ZoomSDKInitializeListener;
 
 import android.app.Activity;
+import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.paypal.android.sdk.payments.PayPalConfiguration;
+import com.paypal.android.sdk.payments.PayPalFuturePaymentActivity;
+import com.paypal.android.sdk.payments.PayPalPayment;
+import com.paypal.android.sdk.payments.PayPalService;
+import com.paypal.android.sdk.payments.PaymentActivity;
+import com.paypal.android.sdk.payments.PaymentConfirmation;
+
+import org.json.JSONException;
+
+import java.math.BigDecimal;
+import java.net.URI;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -43,6 +58,20 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
     TextView meeting_time;
     boolean meeting_started = false;
 
+    private Button paypal;
+
+    //Paypal
+    private static final String CONFIG_ENVIRONMENT = PayPalConfiguration.ENVIRONMENT_SANDBOX;
+    private static final int REQUEST_CODE_PAYMENT = 1;
+    private static final int REQUEST_CODE_FUTURE_PAYMENT = 2;
+
+    private static PayPalConfiguration PayPalConfigurationconfig = new PayPalConfiguration().
+            environment(CONFIG_ENVIRONMENT).
+            clientId(Constants.CONFIG_CLIENT_ID).
+            merchantName("TDATC").
+            merchantPrivacyPolicyUri(Uri.parse("https://www.example.com/privacy#sthash.5ZDdxLFf.dpuf")).
+            merchantUserAgreementUri(Uri.parse("https://www.example.com/legal#sthash.5ZDdxLFf.dpuf"));
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,6 +82,28 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
         mEdtMeetingNo = (EditText) findViewById(R.id.edtMeetingNo);
         mEdtMeetingPassword = (EditText) findViewById(R.id.edtMeetingPassword);
         meeting_time = (TextView) findViewById(R.id.meeting_time);
+        paypal = (Button) findViewById(R.id.paypal);
+
+        Intent intent = new Intent(this, PayPalService.class);
+        intent.putExtra(PayPalService.EXTRA_PAYPAL_CONFIGURATION, PayPalConfigurationconfig);
+
+        startService(intent);
+
+
+        paypal.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                PayPalPayment thingToBuy = new PayPalPayment(new BigDecimal("50"), "USD",
+                        "Zoompack", PayPalPayment.PAYMENT_INTENT_SALE);
+                Intent intent = new Intent(MainActivity.this,
+                        PaymentActivity.class);
+
+                intent.putExtra(PaymentActivity.EXTRA_PAYMENT, thingToBuy);
+                startActivityForResult(intent, REQUEST_CODE_PAYMENT);
+
+            }
+        });
+
 
         if (savedInstanceState == null) {
             ZoomSDK sdk = ZoomSDK.getInstance();
@@ -63,6 +114,8 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
         } else {
             registerMeetingServiceListener();
         }
+
+
     }
 
     private void registerMeetingServiceListener() {
@@ -94,7 +147,7 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
             MeetingService meetingService = zoomSDK.getMeetingService();
             meetingService.removeListener(this);
         }
-
+        stopService(new Intent(this, PayPalService.class));
         super.onDestroy();
     }
 
@@ -157,6 +210,8 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
 
 
         StartMeetingOptions opts = new StartMeetingOptions();
+
+
 //		opts.no_driving_mode = true;
 //		opts.no_invite = true;
 //		opts.no_meeting_end_message = true;
@@ -186,6 +241,7 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
 
 
             if (meetingEvent == 2) {
+                //Meeting Starts
                 start_meeting_time = System.currentTimeMillis();
                 meeting_started = true;
             }
@@ -193,7 +249,10 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
 
             if (meetingEvent == 0 && meeting_started) {
 
+                //Meeting Ends
+
                 meeting_started = false;
+
                 SimpleDateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy hh:mm:ss");
 
                 Calendar calendar = Calendar.getInstance();
@@ -202,7 +261,7 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
 
                 Date date = calendar.getTime();
 
-                long diffInMs = date.getTime() - new Date(System.currentTimeMillis()).getTime();
+                long diffInMs = new Date(System.currentTimeMillis()).getTime() - date.getTime();
 
 
                 long diffInSec = TimeUnit.MILLISECONDS.toSeconds(diffInMs);
@@ -210,7 +269,8 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
                 long diffInHour = TimeUnit.MILLISECONDS.toHours(diffInMs);
                 long diffInMins = TimeUnit.MILLISECONDS.toMinutes(diffInMs);
 
-                meeting_time.setText(diffInHour + " hours" + diffInMins + " min" + diffInSec + " sec");
+
+                meeting_time.setText(diffInHour + " hours " + diffInMins + " min " + (diffInSec % 60) + " sec");
 
 
             }
@@ -220,4 +280,37 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
 
 
     }
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+
+        if (requestCode == REQUEST_CODE_PAYMENT) {
+            if (resultCode == Activity.RESULT_OK) {
+                PaymentConfirmation confirm = data
+                        .getParcelableExtra(PaymentActivity.EXTRA_RESULT_CONFIRMATION);
+                if (confirm != null) {
+                    try {
+                        System.out.println(confirm.toJSONObject().toString(4));
+                        System.out.println(confirm.getPayment().toJSONObject()
+                                .toString(4));
+                        Toast.makeText(getApplicationContext(), "Order placed",
+                                Toast.LENGTH_LONG).show();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
+                    }
+                }
+            } else if (resultCode == Activity.RESULT_CANCELED) {
+                System.out.println("The user canceled.");
+            } else if (resultCode == PaymentActivity.RESULT_EXTRAS_INVALID) {
+                System.out
+                        .println("An invalid Payment or PayPalConfiguration was submitted. Please see the docs.");
+            }
+        }
+
+    }
+
+
+
 }
