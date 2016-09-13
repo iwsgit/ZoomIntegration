@@ -1092,12 +1092,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-mdpi\\zm_audio_wired_normal.png"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zm_ic_close_pressed.png",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-mdpi\\zm_ic_close_pressed.png"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zm_ic_close_pressed.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-mdpi\\zm_ic_close_pressed.png"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\zm_emoji_18.png",

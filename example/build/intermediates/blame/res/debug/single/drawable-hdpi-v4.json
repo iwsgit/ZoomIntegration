@@ -248,12 +248,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_btn_poll_prev_pressed.9.png",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_btn_poll_prev_pressed.9.png"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_btn_control_normal.png",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_btn_control_normal.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_btn_poll_prev_pressed.9.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_btn_poll_prev_pressed.9.png"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_btn_mute_audio_pressed.png",
@@ -972,12 +972,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_btn_unmute_audio_pressed.png"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_status_offline.png",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_status_offline.png"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_btn_poll_next_pressed.9.png",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_btn_poll_next_pressed.9.png"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_status_offline.png",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\drawable-hdpi\\zm_status_offline.png"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zm_flag_ye.png",

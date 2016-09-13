@@ -145,7 +145,7 @@
         jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="62c0984e88f4dcc93d7a4c2f1734c8706467314d">
+        sha1="700109f0928701062527632c0ee582afcb22d94c">
         <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_8d60fccaa6334f989ebb610ce31952ba222f5930\classes.dex" />
     </item>
     <item
@@ -166,7 +166,7 @@
         jar="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.2"
-        sha1="efd0e8bad1067434cf2ce149ab4f818b8ca9d9af">
+        sha1="6ef016358d5df803ab7f11bcd6d9e85c4f3e6622">
         <dex dex="D:\TDATC\zoom-sdk-android-studio\example\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4be7e518a6b6a63c77e25aeb30ad3a1483ca5850\classes.dex" />
     </item>
     <item

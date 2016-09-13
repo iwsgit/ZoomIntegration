@@ -220,12 +220,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_callin_info.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_calling_titlebar.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_calling_titlebar.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_calling_titlebar.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\layout\\zm_calling_titlebar.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\layout\\zm_buddy_invite_send.xml",

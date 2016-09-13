@@ -68,12 +68,12 @@
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_dialog.xml"
     },
     {
-        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_bottom.xml",
-        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_bottom.xml"
-    },
-    {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\anim\\zm_talking_phone.xml",
         "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomsdk\\unspecified\\res\\anim\\zm_talking_phone.xml"
+    },
+    {
+        "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_out_bottom.xml",
+        "source": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\exploded-aar\\zoom-sdk-android-studio\\zoomcommonlib\\unspecified\\res\\anim\\zm_slide_out_bottom.xml"
     },
     {
         "merged": "D:\\TDATC\\zoom-sdk-android-studio\\example\\build\\intermediates\\res\\merged\\debug\\anim\\zm_slide_in_left.xml",

@@ -295,7 +295,7 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
                         System.out.println(confirm.toJSONObject().toString(4));
                         System.out.println(confirm.getPayment().toJSONObject()
                                 .toString(4));
-                        Toast.makeText(getApplicationContext(), "Order placed",
+                        Toast.makeText(getApplicationContext(), "Transaction Completed.",
                                 Toast.LENGTH_LONG).show();
                     } catch (JSONException e) {
                         e.printStackTrace();
@@ -310,7 +310,6 @@ public class MainActivity extends Activity implements Constants, ZoomSDKInitiali
         }
 
     }
-
 
 
 }
